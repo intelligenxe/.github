@@ -101,7 +101,3 @@ The MIT License is one of the most permissive open-source licenses and is charac
 ### 5. No Guarantee of Review or Maintenance
 
 The project owner gives **no guarantee of timely or proper maintenance** whatsoever for the project's repositories. Furthermore, there is **no guarantee that contributors will receive timely or proper feedback** on their submissions, or that their contributions will be implemented in the project. This can be due to various reasons, including limited resources and/or a lack of value, clarity, or feasibility in the submission. However, the project owner does make an effort to **promote top contributors to maintainer roles** and automate processes to reduce these risks and improve the overall contributor experience.
-
-**In short: Contribute because you want to use the feature or enjoy the process—not for money or a guarantee of use.**
-
-
