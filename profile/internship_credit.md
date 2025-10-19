@@ -10,13 +10,7 @@ Contributors participating under this program must complete their contributions 
 As a contributor, you should **not expect any monetary compensation**.  
 In particular, you must agree to the **terms and conditions** outlined in the **MIT License disclaimer** section.
 
-As mentioned above, we offer internship credit **worldwide** to student and early-career contributors who make significant contributions, **except** in the following regions:
-
-- **United States**
-- **Canada**
-- **European Union**
-
-In these regions, internship credit is offered **through academic alliances** between local universities and **INTELLIGENXE Inc.**.
+As mentioned above, we offer internship credit **worldwide** to student and early-career contributors who make significant contributions, **except** in the following regions: United States, Canada and the European Union. In these regions, internship credit is offered through academic alliances between local universities and INTELLIGENXE Inc.
 
 ---
 
