@@ -14,3 +14,4 @@
 
 As a contributor to this OSS platform, you do not need to focus on designing corporate strategies. Your primary goal is to develop the generative AI (GenAI) technologies that power the platform — technologies that can also be applied to many other use cases beyond strategic planning.
 
+To get started, please read the [CONTRIBUTING.md](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md) file.

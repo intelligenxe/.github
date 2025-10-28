@@ -21,6 +21,8 @@ As a contributor, select one module (or a combination) and complete the followin
 5. **Request** a demo meeting and/or submit your model’s URL and evaluation test results.  
 6. **Submit** a Pull Request.  
 
+For more details, please use the [Strategist MVP](https://github.com/orgs/intelligenxe/projects/4) project.
+
 ---
 
 ### Need Help?
