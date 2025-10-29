@@ -1,18 +1,23 @@
 ### Contributors’ Current Focus
 
-At the current stage of the project, contributors should focus on developing a **Minimum Viable Product (MVP)** for any **one** or a **combination** of the following modules:
+At the current stage of the platform, as a contributor you should focus on developing a **Minimum Viable Product (MVP)** for either:
 
-- Data collection from various types of sources  
-- Data processing for RAG (Retrieval-Augmented Generation) document development  
-- RAG systems  
-- Agentic workflows and orchestration  
-- A small, comprehensive version integrating multiple components  
+[Strategist-modular](https://github.com/intelligenxe/Strategist-modular/tree/main) ([see diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow))
+- Knowledge Base (LlamaIndex) 
+- CrewAI Agents  
+- Workflow Orchestrator  
+
+Or
+
+[Strategist-small](https://github.com/intelligenxe/Strategist-small/tree/main) ([see diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow)) 
+
+The above repos are just rough examples, you should feel free to develop your own version from scratch and by using a different approach.
 
 ---
 
 ### Getting Started: Workflow and Deliverables
 
-As a contributor, select one module (or a combination) and complete the following steps:
+As a contributor, select one of the above 2 repos and complete the following steps:
 
 1. **Clone** the source code or start from scratch to develop an equivalent module.  
 2. **Debug / Develop** your code.  
