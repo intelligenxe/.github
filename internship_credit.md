@@ -26,7 +26,7 @@ We have designed the internship programs to require **no supervision**, so you s
 **Internship period:** Up to 6 months  
 
 **Required contributions (workflow and deliverables):**  
-Follow the same workflow and deliverables described in the **Getting Started** (and **Workflow and Deliverables**) section of the `CONTRIBUTING.md` file.
+Follow the same workflow and deliverables described in the **Getting Started: Workflow and Deliverables** section of the `CONTRIBUTING.md` file.
 
 ---
 
@@ -35,7 +35,7 @@ Follow the same workflow and deliverables described in the **Getting Started** (
 **Internship period:** Up to 6 months  
 
 **Required contributions (workflow and deliverables):**  
-As a contributor, work on any number of issues labeled **“internship”** in any of the project’s repositories.  
+As a contributor, work on any number of issues labeled **“intern”** in any of the platform’s repositories.  
 Each issue contains the specific deliverables required.
 
-The **length of internship credit** you may list on your résumé or LinkedIn profile will depend on the **amount and quality** of your contributions.
+The internship credit you receive, and its duration on your résumé, will be based on the quantity and quality of your contributions.

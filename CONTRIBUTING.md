@@ -2,14 +2,14 @@
 
 At this stage of the platform's development, contributors should focus on developing a **Minimum Viable Product (MVP)** for either model
 
-Strategist-modular (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
+**Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
 - CrewAI Agents  
 - Workflow Orchestrator  
 
 or
 
-Strategist-small (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7)) 
+**Strategist-small** (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7)) 
 
 The repositories above are preliminary examples. We encourage contributors to develop their own versions from scratch, exploring alternative approaches as needed.
 
