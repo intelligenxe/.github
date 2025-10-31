@@ -1,23 +1,23 @@
 ### Contributors’ Current Focus
 
-At the current stage of the platform, as a contributor you should focus on developing a **Minimum Viable Product (MVP)** for either:
+At this stage of the platform's development, contributors should focus on developing a **Minimum Viable Product (MVP)** for either model
 
-[Strategist-modular](https://github.com/intelligenxe/Strategist-modular/tree/main) ([see diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow))
+Strategist-modular (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
 - CrewAI Agents  
 - Workflow Orchestrator  
 
-Or
+or
 
-[Strategist-small](https://github.com/intelligenxe/Strategist-small/tree/main) ([see diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow)) 
+Strategist-small (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7)) 
 
-The above repos are just rough examples, you should feel free to develop your own version from scratch and by using a different approach.
+The repositories above are preliminary examples. We encourage contributors to develop their own versions from scratch, exploring alternative approaches as needed.
 
 ---
 
 ### Getting Started: Workflow and Deliverables
 
-As a contributor, select one of the above 2 repos and complete the following steps:
+As a contributor, select one of the 2 repos/models above and complete the following steps:
 
 1. **Clone** the source code or start from scratch to develop an equivalent module.  
 2. **Debug / Develop** your code.  
@@ -26,7 +26,7 @@ As a contributor, select one of the above 2 repos and complete the following ste
 5. **Request** a demo meeting and/or submit your model’s URL and evaluation test results.  
 6. **Submit** a Pull Request.  
 
-For more details, please use the [Strategist MVP](https://github.com/orgs/intelligenxe/projects/4) project.
+Depending on your model choice, for more details use the [Strategist-modular-MVP project](https://github.com/orgs/intelligenxe/projects/8) or [Strategist-small-MVP project](https://github.com/orgs/intelligenxe/projects/7).
 
 ---
 

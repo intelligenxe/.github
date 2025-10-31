@@ -12,6 +12,8 @@
 
 ## Contributors:
 
-As a contributor to this OSS platform, you do not need to focus on designing corporate strategies. Your primary goal is to develop the generative AI (GenAI) technologies that power the platform — technologies that can also be applied to many other use cases beyond strategic planning.
+Our generative AI (GenAI) model is versatile by design, enabling application across a wide range of use cases—not just corporate strategy design. The core architecture is a generic RAG (Retrieval-Augmented Generation) system built with LlamaIndex, which is queried by a coordinated team of CrewAI agents. Both the RAG system and the agentic workflow can be customized for specific use cases.
+
+As a contributor to this OSS platform, your focus should not be on corporate strategy. Instead, your primary goal is to develop the underlying GenAI technologies that power the platform.
 
 To get started, please read the [CONTRIBUTING.md](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md) file.
