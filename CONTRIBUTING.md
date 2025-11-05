@@ -4,7 +4,6 @@
 ### Welcome, and Thank You for Your Interest
 We appreciate your interest in contributing to this project/platform.  
 This repository is licensed under the **Apache License 2.0**, which allows you to use, share, and improve the code — provided that proper credit is given and the same open principles are maintained.  
-Our goal is to make collaboration clear, respectful, and rewarding for everyone involved.
 
 ---
 
