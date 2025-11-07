@@ -1,5 +1,5 @@
 
-# 🤝 Contributing to The Strategist Platform
+# Contributing to The Strategist Platform
 
 ### Welcome, and Thank You for Your Interest 
 This OSS (Open Source Software) repository is licensed under the **Apache License 2.0**, which allows you to use, share, and improve the code — provided that proper credit is given and the same open principles are maintained.  
@@ -94,27 +94,27 @@ This open-source software (OSS) project provides contributors with the standard 
 
 ---
 
-## 💬 About the Apache 2.0 License
+## About the Apache 2.0 License
 
 This project is distributed under the **Apache License 2.0**, one of the most widely used and trusted open-source licenses.  
 It is designed to encourage collaboration and innovation while ensuring that all contributors receive appropriate recognition for their work.
 
-#### 💡 What This Means for You
+#### What This Means for You
 - You are **free to use** the code in personal, academic, or commercial projects.  
 - You may **modify, improve, and share** the code as you see fit.  
 - You can **build upon this project** to create your own solutions or extensions.  
 - The license also provides **patent protection**, allowing you to develop confidently.
 
-#### 🧭 Key Requirements
+#### Key Requirements
 To maintain transparency and fairness, please observe the following:
 - **Retain the license notice** in any copies or significant portions of the code you distribute.  
 - **Acknowledge the original authors** in accordance with the license terms.  
 - If you make modifications, **clearly describe your changes** so others can understand what was updated.  
-  > 💬 In practice, this means writing clear commit messages, describing your updates in pull requests, and adding brief code comments when helpful.  
+  > In practice, this means writing clear commit messages, describing your updates in pull requests, and adding brief code comments when helpful.  
   > This ensures that collaborators can easily follow the history and purpose of your contributions.  
 - Do not use the project’s **name, logo, or trademarks** in a way that suggests endorsement without explicit permission.
 
-#### ❤️ Why This License Works Well
+#### Why This License Works Well
 - It keeps the project **open and inclusive** for all contributors.  
 - It ensures that your work is **properly credited and legally protected**.  
 - It promotes a **transparent and collaborative open-source community**.  
@@ -130,7 +130,7 @@ The project owner gives **no guarantee of timely or proper maintenance** whatsoe
 
 ---
 
-### 🌟 Thank You for Contributing
+### Thank You for Contributing
 Your time, effort, and ideas are what make this project thrive.  
 Whether you are fixing a minor issue, improving documentation, or developing a new feature — **every contribution adds value**.  
 Together, we can continue to build and improve this project for the benefit of the entire community.
