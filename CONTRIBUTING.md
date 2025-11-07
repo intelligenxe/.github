@@ -1,7 +1,7 @@
 
 # Contributing to The Strategist Platform
 
-### Welcome, and Thank You for Your Interest 
+#### Welcome, and Thank You for Your Interest 
 This OSS (Open Source Software) repository is licensed under the **Apache License 2.0**, which allows you to use, share, and improve the code — provided that proper credit is given and the same open principles are maintained.  
 
 ---
@@ -130,7 +130,7 @@ The project owner gives **no guarantee of timely or proper maintenance** whatsoe
 
 ---
 
-### Thank You for Contributing
+#### Thank You for Contributing
 Your time, effort, and ideas are what make this project thrive.  
 Whether you are fixing a minor issue, improving documentation, or developing a new feature — **every contribution adds value**.  
 Together, we can continue to build and improve this project for the benefit of the entire community.
