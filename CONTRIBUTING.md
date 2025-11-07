@@ -24,9 +24,9 @@ Subsequently (or concurrently), you will be able to develop the **Strategist’s
 
 ---
 
-### Development Guidance
+## Getting Started
 
-For developing either the basic Agentic RAG or the Strategist MVP, you may follow the guidance in:
+To develop either **the basic Agentic RAG** or **the Strategist MVP**, select one of the following two models/repositories and use the workflow in its corresponding MVP project as a guide:
 
 -- **Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
@@ -39,9 +39,7 @@ These repositories serve as preliminary examples. We encourage you to **develop 
 
 ---
 
-## Getting Started: Workflow and Deliverables
-
-Select one of the above 2 models/repositories, then follow the corresponding workflow in [Strategist-modular-MVP project](https://github.com/orgs/intelligenxe/projects/8) or [Strategist-small-MVP project](https://github.com/orgs/intelligenxe/projects/7):
+### Workflow and Deliverables
 
 1. **Clone** the source code or start from scratch to develop an equivalent module.  
 2. **Debug / Develop** your code.  
