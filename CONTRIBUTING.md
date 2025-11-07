@@ -42,7 +42,7 @@ These repositories serve as preliminary examples. We encourage you to **develop 
 
 ## Getting Started: Workflow and Deliverables
 
-As a contributor, select one of the 2 repos/models above and complete the following steps:
+Select one of the above 2 models/repositories, then follow the corresponding workflow in [Strategist-modular-MVP project](https://github.com/orgs/intelligenxe/projects/8) or [Strategist-small-MVP project](https://github.com/orgs/intelligenxe/projects/7):
 
 1. **Clone** the source code or start from scratch to develop an equivalent module.  
 2. **Debug / Develop** your code.  
@@ -51,13 +51,11 @@ As a contributor, select one of the 2 repos/models above and complete the follow
 5. **Request** a demo meeting and/or submit your model’s URL and evaluation test results.  
 6. **Submit** a Pull Request.  
 
-Depending on your model choice, for more details use the [Strategist-modular-MVP project](https://github.com/orgs/intelligenxe/projects/8) or [Strategist-small-MVP project](https://github.com/orgs/intelligenxe/projects/7).
-
 ---
 
 ## Help
 
-We offer limited technical assistance, as contributors can generally obtain support from YouTube tutorials, LLM queries, online resources, and our community.
+[We offer limited technical assistance](https://github.com/intelligenxe/.github/tree/main/tutorials#help), as contributors can generally obtain support from YouTube tutorials, LLM queries, online resources, and our community.
 
 ---
 
