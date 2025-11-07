@@ -73,7 +73,7 @@ Therefore, expect minimal or no help from owners, admins, and maintainers of Str
 
 ## Advantages of Contributing
 
-This open-source software (OSS) project provides contributors with the standard benefits of participating in the OSS ecosystem, including:
+This open-source software (OSS) platform provides contributors with the standard benefits of participating in the OSS ecosystem, including:
 
 - **Building a Public Portfolio (“The New Résumé”)**  
   All contributions are publicly visible on our GitHub platform, serving as a verifiable, high-quality portfolio for contributors.  
@@ -85,7 +85,7 @@ This open-source software (OSS) project provides contributors with the standard 
   Collaborate with established experts and maintainers worldwide.  
 
 - **Professional Recognition**  
-  Earning recognition from respected project members can lead to mentorship, speaking opportunities, or even direct job offers, as many companies actively recruit core contributors.  
+  Earning recognition from respected platform members can lead to mentorship, speaking opportunities, or even direct job offers, as many companies actively recruit core contributors.  
 
 - **Personal/Private Use**  
   Contributors may use OSS modules for personal or private use cases (MIT License).  
@@ -94,7 +94,7 @@ This open-source software (OSS) project provides contributors with the standard 
   Contributors who become experts in specific OSS modules can offer consulting, training, or premium support services to companies interested in implementing these modules (MIT License).  
 
 - **Enjoyment and Altruism**  
-  Participate for the satisfaction of contributing to open-source projects and advancing collective knowledge.  
+  Participate for the satisfaction of contributing to open-source platforms and advancing collective knowledge.  
 
 - **Internship Credit**  
   Available to certain contributors, depending on eligibility.  
@@ -106,13 +106,13 @@ This open-source software (OSS) project provides contributors with the standard 
 
 ## About the Apache 2.0 License
 
-This project is distributed under the **Apache License 2.0**, one of the most widely used and trusted open-source licenses.  
+This platform is distributed under the **Apache License 2.0**, one of the most widely used and trusted open-source licenses.  
 It is designed to encourage collaboration and innovation while ensuring that all contributors receive appropriate recognition for their work.
 
 #### What This Means for You
 - You are **free to use** the code in personal, academic, or commercial projects.  
 - You may **modify, improve, and share** the code as you see fit.  
-- You can **build upon this project** to create your own solutions or extensions.  
+- You can **build upon this platform** to create your own solutions or extensions.  
 - The license also provides **patent protection**, allowing you to develop confidently.
 
 #### Key Requirements
@@ -122,10 +122,10 @@ To maintain transparency and fairness, please observe the following:
 - If you make modifications, **clearly describe your changes** so others can understand what was updated.  
   > In practice, this means writing clear commit messages, describing your updates in pull requests, and adding brief code comments when helpful.  
   > This ensures that collaborators can easily follow the history and purpose of your contributions.  
-- Do not use the project’s **name, logo, or trademarks** in a way that suggests endorsement without explicit permission.
+- Do not use the platform’s **name, logo, or trademarks** in a way that suggests endorsement without explicit permission.
 
 #### Why This License Works Well
-- It keeps the project **open and inclusive** for all contributors.  
+- It keeps the platform **open and inclusive** for all contributors.  
 - It ensures that your work is **properly credited and legally protected**.  
 - It promotes a **transparent and collaborative open-source community**.  
 - It is **commercially friendly**, allowing contributions to reach a broader audience and impact.
@@ -136,12 +136,12 @@ By submitting contributions, you agree that your work will be shared under the s
 
 ## No Guarantee of Review or Maintenance
 
-INTELLIGENXE gives **no guarantee of timely or proper maintenance** whatsoever for the project's repositories. Furthermore, there is **no guarantee that contributors will receive timely or proper feedback** on their submissions, or that their contributions will be implemented in the project. This can be due to various reasons, including limited resources and/or a lack of value, clarity, or feasibility in the submission. However, INTELLIGENXE does make an effort to **promote top contributors to maintainer roles** and automate processes to reduce these risks and improve the overall contributor experience.
+INTELLIGENXE gives **no guarantee of timely or proper maintenance** whatsoever for the platform's repositories. Furthermore, there is **no guarantee that contributors will receive timely or proper feedback** on their submissions, or that their contributions will be implemented in the platform. This can be due to various reasons, including limited resources and/or a lack of value, clarity, or feasibility in the submission. However, INTELLIGENXE does make an effort to **promote top contributors to maintainer roles** and automate processes to reduce these risks and improve the overall contributor experience.
 
 ---
 
 #### Thank You for Contributing
-Your time, effort, and ideas are what make this project thrive.  
+Your time, effort, and ideas are what make this platform thrive.  
 Whether you are fixing a minor issue, improving documentation, or developing a new feature — **every contribution adds value**.  
-Together, we can continue to build and improve this project for the benefit of the entire community.
+Together, we can continue to build and improve this platform for the benefit of the entire community.
 
