@@ -37,8 +37,6 @@ To develop either **the basic Agentic RAG** or **the Strategist MVP**, select on
 
 These repositories serve as preliminary examples. We encourage you to **develop your own version from scratch**, exploring alternative approaches and improvements as needed.
 
----
-
 ### Workflow and Deliverables
 
 1. **Clone** the source code or start from scratch to develop an equivalent module.  
@@ -98,7 +96,6 @@ This open-source software (OSS) platform provides contributors with the standard
   Available to certain contributors, depending on eligibility.  
 
 - **And more...**
-
 
 ---
 
