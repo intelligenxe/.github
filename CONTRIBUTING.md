@@ -1,30 +1,46 @@
 
 # 🤝 Contributing to The Strategist Platform
 
-### Welcome, and Thank You for Your Interest
-We appreciate your interest in contributing to this project/platform.  
-This repository is licensed under the **Apache License 2.0**, which allows you to use, share, and improve the code — provided that proper credit is given and the same open principles are maintained.  
+### Welcome, and Thank You for Your Interest 
+This OSS (Open Source Software) repository is licensed under the **Apache License 2.0**, which allows you to use, share, and improve the code — provided that proper credit is given and the same open principles are maintained.  
 
 ---
 
-### Contributors’ Current Focus
+## Contributor’s Current Focus
 
-At this stage of the platform's development, contributors should focus on developing a **Minimum Viable Product (MVP)** for either model
+### Development of a Basic Generic Agentic RAG
 
-**Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
+Your current focus as a contributor is to develop a **basic, generic Agentic RAG** — that is, a simple and adaptable **Retrieval-Augmented Generation (RAG)** system (tentatively using **LlamaIndex**) that can be queried by a coordinated team of agents (tentatively using **CrewAI agents**).  
+
+“Generic” here means that both the RAG system and the agentic workflow can be easily customized for any desired use case. In this way, you will be developing an **open-source (OSS) tool** that you can later reuse for multiple personal projects and applications.
+
+---
+
+### The Strategist MVP
+
+Subsequently (or concurrently), you will be able to develop the **Strategist’s Minimum Viable Product (MVP)** by customizing the generic Agentic RAG described above. This will primarily involve:
+
+- Using public documents from the client company and its industry as the **RAG knowledge base**
+- Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository
+
+---
+
+### Development Guidance
+
+For developing either the basic Agentic RAG or the Strategist MVP, you may follow the guidance in:
+
+-- **Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
 - CrewAI Agents  
 - Workflow Orchestrator  
 
-or
+-- **Strategist-small** (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7)) 
 
-**Strategist-small** (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7)) 
-
-The repositories above are preliminary examples. We encourage contributors to develop their own versions from scratch, exploring alternative approaches as needed.
+These repositories serve as preliminary examples. We encourage you to **develop your own version from scratch**, exploring alternative approaches and improvements as needed.
 
 ---
 
-### Getting Started: Workflow and Deliverables
+## Getting Started: Workflow and Deliverables
 
 As a contributor, select one of the 2 repos/models above and complete the following steps:
 
@@ -39,13 +55,13 @@ Depending on your model choice, for more details use the [Strategist-modular-MVP
 
 ---
 
-### Need Help?
+## Help
 
-We do not provide technical assistance, as in most cases contributors can get help from youtube tutorials, querying LLMs, searching the web, etc. and our community
+We offer limited technical assistance, as contributors can generally obtain support from YouTube tutorials, LLM queries, online resources, and our community.
 
 ---
 
-### Advantages of Contributing
+## Advantages of Contributing
 
 This open-source software (OSS) project provides contributors with the standard benefits of participating in the OSS ecosystem, including:
 
@@ -78,7 +94,7 @@ This open-source software (OSS) project provides contributors with the standard 
 
 ---
 
-### 💬 About the Apache 2.0 License
+## 💬 About the Apache 2.0 License
 
 This project is distributed under the **Apache License 2.0**, one of the most widely used and trusted open-source licenses.  
 It is designed to encourage collaboration and innovation while ensuring that all contributors receive appropriate recognition for their work.
@@ -108,7 +124,7 @@ By submitting contributions, you agree that your work will be shared under the s
 
 ---
 
-### No Guarantee of Review or Maintenance
+## No Guarantee of Review or Maintenance
 
 The project owner gives **no guarantee of timely or proper maintenance** whatsoever for the project's repositories. Furthermore, there is **no guarantee that contributors will receive timely or proper feedback** on their submissions, or that their contributions will be implemented in the project. This can be due to various reasons, including limited resources and/or a lack of value, clarity, or feasibility in the submission. However, the project owner does make an effort to **promote top contributors to maintainer roles** and automate processes to reduce these risks and improve the overall contributor experience.
 
