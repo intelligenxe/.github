@@ -1,9 +1,8 @@
 
 # Contributing to The Strategist Platform
 
-#### Welcome, and Thank You for Your Interest 
-This OSS (Open Source Software) repository is licensed under the **Apache License 2.0**, which allows you to use, share, and improve the code — provided that proper credit is given and the same open principles are maintained.  
-
+Welcome, and thank you for your interest
+  
 ---
 
 ## Contributor’s Current Focus
@@ -55,7 +54,20 @@ Select one of the above 2 models/repositories, then follow the corresponding wor
 
 ## Help
 
-[We offer limited technical assistance](https://github.com/intelligenxe/.github/tree/main/tutorials#help), as contributors can generally obtain support from YouTube tutorials, LLM queries, online resources, and our community.
+### There is too much help out there
+
+Make yourself self-sufficient by using the many resources available, including the following:
+
+- **LLMs** (Claude (recommended), ChatGPT, Gemini, DeepSeek, Grok, Perplexity, Mistral, Qwen, etc.) are a great resource for coding. Just tell them specifically what you need in a prompt and start a chat, guiding them along until you get all the code and explanations/guidance you need.
+
+- **Relevant YouTube videos** are also very helpful.
+
+- **Library/framework documentation** is very helpful (and it's usually better than third-party documentation, websites, blogs, etc. about the same libraries/frameworks).
+
+- **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects).
+
+Therefore, expect minimal or no help from owners, admins, and maintainers of Strategist's open source repos. Instead, focus on getting help from the above resources.
+
 
 ---
 
