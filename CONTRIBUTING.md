@@ -13,7 +13,7 @@ Your current focus as a contributor is to develop a **basic, generic Agentic RAG
 
 “Generic” here means that both the RAG system and the agentic workflow can be easily customized for any desired use case. In this way, you will be developing an **open-source (OSS) tool** that you can later reuse for multiple personal projects and applications.
 
----
+
 
 ### The Strategist MVP
 
