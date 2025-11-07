@@ -126,7 +126,7 @@ By submitting contributions, you agree that your work will be shared under the s
 
 ## No Guarantee of Review or Maintenance
 
-The project owner gives **no guarantee of timely or proper maintenance** whatsoever for the project's repositories. Furthermore, there is **no guarantee that contributors will receive timely or proper feedback** on their submissions, or that their contributions will be implemented in the project. This can be due to various reasons, including limited resources and/or a lack of value, clarity, or feasibility in the submission. However, the project owner does make an effort to **promote top contributors to maintainer roles** and automate processes to reduce these risks and improve the overall contributor experience.
+INTELLIGENXE gives **no guarantee of timely or proper maintenance** whatsoever for the project's repositories. Furthermore, there is **no guarantee that contributors will receive timely or proper feedback** on their submissions, or that their contributions will be implemented in the project. This can be due to various reasons, including limited resources and/or a lack of value, clarity, or feasibility in the submission. However, INTELLIGENXE does make an effort to **promote top contributors to maintainer roles** and automate processes to reduce these risks and improve the overall contributor experience.
 
 ---
 
