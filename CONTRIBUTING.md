@@ -119,12 +119,6 @@ To maintain transparency and fairness, please observe the following:
   > This ensures that collaborators can easily follow the history and purpose of your contributions.  
 - Do not use the platform’s **name, logo, or trademarks** in a way that suggests endorsement without explicit permission.
 
-#### Why This License Works Well
-- It keeps the platform **open and inclusive** for all contributors.  
-- It ensures that your work is **properly credited and legally protected**.  
-- It promotes a **transparent and collaborative open-source community**.  
-- It is **commercially friendly**, allowing contributions to reach a broader audience and impact.
-
 By submitting contributions, you agree that your work will be shared under the same **Apache 2.0 License**, ensuring long-term openness and consistency.
 
 ---
