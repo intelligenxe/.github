@@ -21,9 +21,9 @@ Concurrently, you will be able to develop the **Strategist’s Minimum Viable Pr
 ## Getting Started
 To develop a **generic Agentic RAG**, it is practical to begin with data from a specific use case. Once developed, the Agentic RAG can then be **generalized or adapted** for other applications.
 
-In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. As discussed above,we will refer to this initial Agentic RAG as the **Strategist-MVP**
+In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. As discussed above, we will refer to this initial Agentic RAG as the **Strategist-MVP**
 
-The following two repositories serve as preliminary examples. You may use either of them as a starting point and follow the corresponding MVP project for development. However, **we encourage you to create your own version from scratch, exploring alternative approaches and potential improvements as needed**.
+The following two repositories serve as preliminary examples. You may use either of them as a starting point and follow the corresponding **MVP project** for development. However, **we encourage you to create your own version from scratch, exploring alternative approaches and potential improvements as needed**.
 
 -- **Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
