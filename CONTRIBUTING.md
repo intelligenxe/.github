@@ -13,7 +13,7 @@ Your current focus as a contributor is to develop a **basic, generic Agentic RAG
 
 ### The Strategist MVP
 
-Subsequently (or concurrently), you will be able to develop the **Strategist’s Minimum Viable Product (MVP)** by customizing the generic Agentic RAG described above. This will primarily involve:
+Concurrently, you will be able to develop the **Strategist’s Minimum Viable Product (MVP)** by customizing the generic Agentic RAG described above. This will primarily involve:
 
 - Using public documents from the client company and its industry as the **RAG knowledge base**
 - Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository
@@ -21,7 +21,7 @@ Subsequently (or concurrently), you will be able to develop the **Strategist’s
 ## Getting Started
 To develop a **generic Agentic RAG**, it is practical to begin with data from a specific use case. Once developed, the Agentic RAG can then be **generalized or adapted** for other applications.
 
-In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. We will refer to this initial Agentic RAG as the **Strategist-MVP**
+In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. As discussed above,we will refer to this initial Agentic RAG as the **Strategist-MVP**
 
 The following two repositories serve as preliminary examples. You may use either of them as a starting point and follow the corresponding MVP project for development. However, **we encourage you to create your own version from scratch, exploring alternative approaches and potential improvements as needed**.
 
