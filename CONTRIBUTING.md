@@ -1,9 +1,7 @@
 
 # Contributing to The Strategist Platform
 
-Welcome, and thank you for your interest
-  
----
+Welcome, and thank you for your interest.
 
 ## Contributor’s Current Focus
 
@@ -13,8 +11,6 @@ Your current focus as a contributor is to develop a **basic, generic Agentic RAG
 
 “Generic” here means that both the RAG system and the agentic workflow can be easily customized for any desired use case. In this way, you will be developing an **open-source (OSS) tool** that you can later reuse for multiple personal projects and applications.
 
-
-
 ### The Strategist MVP
 
 Subsequently (or concurrently), you will be able to develop the **Strategist’s Minimum Viable Product (MVP)** by customizing the generic Agentic RAG described above. This will primarily involve:
@@ -22,20 +18,19 @@ Subsequently (or concurrently), you will be able to develop the **Strategist’s
 - Using public documents from the client company and its industry as the **RAG knowledge base**
 - Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository
 
----
-
 ## Getting Started
+To develop a **generic Agentic RAG**, it is practical to begin with data from a specific use case. Once developed, the Agentic RAG can then be **generalized or adapted** for other applications.
 
-To develop either **the basic Agentic RAG** or **the Strategist MVP**, select one of the following two models/repositories and use the workflow in its corresponding MVP project as a guide:
+In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. We will refer to this initial Agentic RAG as the **Strategist-MVP**
+
+The following two repositories serve as preliminary examples. You may use either of them as a starting point and follow the corresponding MVP project for development. However, **we encourage you to create your own version from scratch, exploring alternative approaches and potential improvements as needed**.
 
 -- **Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
 - CrewAI Agents  
 - Workflow Orchestrator  
 
--- **Strategist-small** (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7)) 
-
-These repositories serve as preliminary examples. We encourage you to **develop your own version from scratch**, exploring alternative approaches and improvements as needed.
+-- **Strategist-small** (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7))
 
 ### Workflow and Deliverables
 
@@ -45,8 +40,6 @@ These repositories serve as preliminary examples. We encourage you to **develop 
 4. **Deploy** it on a free hosting platform (e.g., Streamlit, Gradio, etc.) or build a Django app to deploy it on our servers.  
 5. **Request** a demo meeting and/or submit your model’s URL and evaluation test results.  
 6. **Submit** a Pull Request.  
-
----
 
 ## Help
 
@@ -63,9 +56,6 @@ Make yourself self-sufficient by using the many resources available, including t
 - **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects).
 
 Therefore, expect minimal or no help from owners, admins, and maintainers of Strategist's open source repos. Instead, focus on getting help from the above resources.
-
-
----
 
 ## Advantages of Contributing
 
@@ -97,8 +87,6 @@ This open-source software (OSS) platform provides contributors with the standard
 
 - **And more...**
 
----
-
 ## About the Apache 2.0 License
 
 This platform is distributed under the **Apache License 2.0**, one of the most widely used and trusted open-source licenses.  
@@ -120,8 +108,6 @@ To maintain transparency and fairness, please observe the following:
 - Do not use the platform’s **name, logo, or trademarks** in a way that suggests endorsement without explicit permission.
 
 By submitting contributions, you agree that your work will be shared under the same **Apache 2.0 License**, ensuring long-term openness and consistency.
-
----
 
 ## No Guarantee of Review or Maintenance
 
