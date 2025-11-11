@@ -34,7 +34,7 @@ The following two repositories serve as preliminary examples. You may use either
 
 ### Workflow and Deliverables
 
-1. **Clone** the source code or start from scratch to develop an equivalent module.  
+1. **Clone** the source code or start from scratch to develop an equivalent module (optional, if you want to start from scratch).  
 2. **Debug / Develop** your code.  
 3. **Run** it on your local machine.  
 4. **Deploy** it on a free hosting platform (e.g., Streamlit, Gradio, etc.) or build a Django app to deploy it on our servers.  
