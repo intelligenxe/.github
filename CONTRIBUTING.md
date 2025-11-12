@@ -24,7 +24,7 @@ In our case, we will develop the Agentic RAG using the following use case: **des
 
 ## Getting Started
 
-The following two repositories provide a rough foundation for developing the **Strategist-MVP** described above. You may use either of them as a starting point and follow the corresponding **MVP project** for development. However, **we encourage you to create your own version from scratch, exploring alternative approaches and potential improvements** and use the **MVP projects** only as a guide.
+The following two repositories provide a rough foundation for developing the **Strategist-MVP** described above. You may use either of them as a starting point and follow the corresponding **MVP project** for development. However, **we encourage you to create your own version from scratch - exploring alternative approaches and potential improvements -** and use the **MVP projects** only as a guide.
 
 -- **Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
