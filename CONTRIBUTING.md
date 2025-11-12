@@ -9,21 +9,22 @@ Welcome, and thank you for your interest.
 
 Your current focus as a contributor is to develop a **basic, generic Agentic RAG** — that is, a simple and adaptable **Retrieval-Augmented Generation (RAG)** system (tentatively using **LlamaIndex**) that can be queried by a coordinated team of agents (tentatively using **CrewAI agents**).  
 
-“Generic” here means that both the RAG system and the agentic workflow can be easily customized for any desired use case. In this way, you will be developing an **open-source (OSS) tool** that you can later reuse for multiple personal projects and applications.
+“Generic” here means that both the RAG system and the agentic workflow can be easily customized for any desired use case, including your personal projects.
 
 ### The Strategist MVP
 
-Concurrently, you will be able to develop the **Strategist’s Minimum Viable Product (MVP)** by customizing the generic Agentic RAG described above. This will primarily involve:
-
-- Using public documents from the client company and its industry as the **RAG knowledge base**
-- Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository
-
-## Getting Started
 To develop a **generic Agentic RAG**, it is practical to begin with data from a specific use case. Once developed, the Agentic RAG can then be **generalized or adapted** for other applications.
 
-In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. As discussed above, we will refer to this initial Agentic RAG as the **Strategist-MVP**
+In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. We will refer to this initial Agentic RAG as the **Strategist-MVP**.
 
-The following two repositories serve as preliminary examples. You may use either of them as a starting point and follow the corresponding **MVP project** for development. However, **we encourage you to create your own version from scratch, exploring alternative approaches and potential improvements as needed**.
+ This will primarily involve:
+
+- Using public documents from the client company and its industry as the **RAG knowledge base**.
+- Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository.
+
+## Getting Started
+
+The following two repositories provide a rough foundation for developing the **Strategist-MVP** described above. You may use either of them as a starting point and follow the corresponding **MVP project** for development. However, **we encourage you to create your own version from scratch, exploring alternative approaches and potential improvements** and use the **MVP projects** only as a guide.
 
 -- **Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
 - Knowledge Base (LlamaIndex) 
@@ -34,7 +35,7 @@ The following two repositories serve as preliminary examples. You may use either
 
 ### Workflow and Deliverables
 
-1. **Clone** the source code or start from scratch to develop an equivalent module (optional, if you want to start from scratch).  
+1. **Clone** the source code or start from scratch to develop your version of the **Strategist-MVP**.
 2. **Debug / Develop** your code.  
 3. **Run** it on your local machine.  
 4. **Deploy** it on a free hosting platform (e.g., Streamlit, Gradio, etc.) or build a Django app to deploy it on our servers.  
