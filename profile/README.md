@@ -1,3 +1,5 @@
+![intelligenxeTM](https://github.com/user-attachments/assets/10e44015-e012-4a32-aa09-5468496d4b5c)
+
 # INTELLIGENXE
 
 ## The Platform: Strategist
