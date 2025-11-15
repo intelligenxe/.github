@@ -19,28 +19,12 @@ In our case, we will develop the Agentic RAG using the following use case: **des
 
  This will primarily involve:
 
-- Using public documents from the client company and its industry as the **RAG knowledge base**.
+- Using public documents from the client company and its industry for the **RAG knowledge base**.
 - Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository.
 
 ## Getting Started
 
-The following two repositories provide a rough foundation for developing the **Strategist-MVP** described above. You may use either of them as a starting point and follow the corresponding **MVP project** for development. However, **we encourage you to create your own version from scratch - exploring alternative approaches and potential improvements -** and use the **MVP projects** only as a guide.
-
--- **Strategist-modular** (see [repository](https://github.com/intelligenxe/Strategist-modular/tree/main), [diagram](https://github.com/intelligenxe/Strategist-modular/blob/main/docs/GUIDE_2.md#full-integration-flow) and [MVP project](https://github.com/orgs/intelligenxe/projects/8))
-- Knowledge Base (LlamaIndex) 
-- CrewAI Agents  
-- Workflow Orchestrator  
-
--- **Strategist-small** (see [repository](https://github.com/intelligenxe/Strategist-small/tree/main), [diagram](https://github.com/intelligenxe/Strategist-small/tree/main/docs#-workflow) and [MVP project](https://github.com/orgs/intelligenxe/projects/7))
-
-### Workflow and Deliverables
-
-1. **Clone** the source code or start from scratch to develop your version of the **Strategist-MVP**.
-2. **Debug / Develop** your code.  
-3. **Run** it on your local machine.  
-4. **Deploy** it on a free hosting platform (e.g., Streamlit, Gradio, etc.) or build a Django app to deploy it on our servers.  
-5. **Request** a demo meeting and/or submit your model’s URL and evaluation test results.  
-6. **Submit** a Pull Request.  
+Please follow the guidance provided in the [Strategist-MVP project](https://github.com/orgs/intelligenxe/projects/14) when developing or contributing to the **Strategist-MVP** described above. The project includes example scripts and repositories that you may use as a rough foundation. However, at this stage we encourage you to build your own version from scratch—exploring alternative approaches and potential improvements—and use the **Strategit-MVP project** materials only as a reference.
 
 ## Help
 
