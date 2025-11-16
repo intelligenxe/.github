@@ -24,7 +24,7 @@ In our case, we will develop the Agentic RAG using the following use case: **des
 
 ## Getting Started
 
-Please follow the guidance provided in the [Strategist-MVP project](https://github.com/orgs/intelligenxe/projects/14) when developing or contributing to the **Strategist-MVP** described above. The project includes example scripts and repositories that you may use as a rough foundation. However, at this stage we encourage you to build your own version from scratch—exploring alternative approaches and potential improvements—and use the **Strategit-MVP project** materials only as a reference.
+Please follow the guidance provided in the [Strategist-MVP project](https://github.com/orgs/intelligenxe/projects/14) when developing or contributing to the **Strategist-MVP** described above. The project includes example scripts and repositories that you may use as a rough foundation. However, at this stage, we encourage you to build your own version from scratch—exploring alternative approaches and potential improvements—and use the **Strategit-MVP project** materials only as a reference.
 
 ## Help
 

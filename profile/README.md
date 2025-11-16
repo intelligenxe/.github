@@ -11,8 +11,7 @@
 - [Strategist-modular](https://github.com/intelligenxe/Strategist-modular)
 - [AI-driven-strategy](https://github.com/intelligenxe/AI-driven-strategy)
 
-
-## Contributors:
+## Contributors
 
 As a contributor to this open-source (OSS) platform, you do not need to focus on designing corporate strategies. Your primary goal is to develop the generative AI (GenAI) technologies that power the platform — flexible, reusable tools that can be applied to a wide range of use cases beyond strategic planning, including your own personal projects.
 
