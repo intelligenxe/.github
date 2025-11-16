@@ -15,7 +15,7 @@ Your current focus as a contributor is to develop a **basic, generic Agentic RAG
 
 To develop a **generic Agentic RAG**, it is practical to begin with data from a specific use case. Once developed, the Agentic RAG can then be **generalized or adapted** for other applications.
 
-In our case, we will develop the Agentic RAG using the following use case: **designing the corporate strategy for a client company**. We will refer to this initial Agentic RAG as the **Strategist-MVP**.
+In our case, we will develop the Agentic RAG for the following use case: **designing the corporate strategy for a company of interest**. We will refer to this initial Agentic RAG as the **Strategist-MVP**.
 
  This will primarily involve:
 
