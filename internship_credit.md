@@ -14,6 +14,8 @@ Internship credit is **available worldwide** to student and early-career contrib
 
 **Internship Description:**  Follow and complete the workflow in the [Strategist-MVP project](https://github.com/orgs/intelligenxe/projects/14). Start with [Getting Started](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md#getting-started).
 
+---
+
 ### Internship A101 (coming soon)
 
 **Internship period:** Up to 6 months  
