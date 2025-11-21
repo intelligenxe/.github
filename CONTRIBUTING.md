@@ -67,7 +67,7 @@ This open-source software (OSS) platform provides contributors with the standard
 - **Enjoyment and Altruism**  
   Participate for the satisfaction of contributing to open-source platforms and advancing collective knowledge.  
 
-- **Internship Credit**  
+- [**Internship Credit**](https://github.com/intelligenxe/.github/blob/main/internship_credit.md)  
   Available to certain contributors, depending on eligibility.  
 
 - **And more...**

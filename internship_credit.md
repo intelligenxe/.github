@@ -12,7 +12,7 @@ Internship credit is **available worldwide** to student and early-career contrib
 
 **Internship period:** Up to 6 months  
 
-**Internship Description:**  Follow and complete the workflow in the [Strategist-MVP project](https://github.com/orgs/intelligenxe/projects/14). Start with [Getting Started](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md#getting-started).
+**Internship Details:**  Follow and complete the workflow in the [Strategist-MVP project](https://github.com/orgs/intelligenxe/projects/14). Start with [Getting Started](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md#getting-started).
 
 ---
 
@@ -20,4 +20,11 @@ Internship credit is **available worldwide** to student and early-career contrib
 
 **Internship period:** Up to 6 months  
 
-**Internship Description:** As a contributor, work on any number of issues labeled **“intern”** in any of the platform’s repositories. Each issue contains the specific deliverables required. The internship credit you receive, and its duration on your résumé, will be based on the quantity and quality of your contributions.
+**Internship Details:** Work on any number of issues labeled **“intern”** in any of the platform’s repositories below. Each issue specifies the required deliverables. The internship credit you receive, and its duration on your résumé, will be based on the quantity and quality of your contributions.
+
+**Repositories** with issues labeled "intern":
+
+- [.github](https://github.com/intelligenxe/.github)
+- [Strategist-small](https://github.com/intelligenxe/Strategist-small)
+- [Strategist-modular](https://github.com/intelligenxe/Strategist-modular)
+- [AI-driven-strategy](https://github.com/intelligenxe/AI-driven-strategy)
