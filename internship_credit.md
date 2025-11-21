@@ -1,25 +1,12 @@
 ## Internship Credit for Student and Recent Graduate Contributors
 
-**INTELLIGENXE** offers internship credit opportunities for qualified contributors who participate in the **Strategist** open-source platform.  
-These internships recognize meaningful technical contributions and provide a way for students and recent graduates to gain **hands-on experience** in **Generative AI (GenAI)** development.
+**INTELLIGENXE** offers internship credit opportunities to qualified contributors participating in the **Strategist** open-source platform. These credits recognize meaningful technical contributions and allow students and recent graduates to gain hands-on experience in Generative AI (GenAI) development. Internship credit from INTELLIGENXE Inc. may be added to your résumé and LinkedIn profile upon completing predetermined sets of contributions.
 
-In addition to the advantages of contributing described in this section, we offer **GenAI internship credit** from **INTELLIGENXE Inc.** to student and recent-graduate contributors.  
-This credit can be added to your résumé and LinkedIn profile upon completing certain predetermined sets of contributions.
+All work completed under this program is voluntary and intended as a training exercise to build practical skills and advance your professional career. Contributors should not expect monetary compensation and perform the internship at their own risk. The internship programs are designed to require no supervision, so ongoing support from maintainers should not be expected. Additionally, contributors must agree to the terms and conditions outlined in [CONTRIBUTING.md](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md).
 
-Contributors participating under this program must complete their contributions **voluntarily** and treat them as a **training exercise** for gaining practical experience and advancing their professional careers.  
-As a contributor, you should **not expect any monetary compensation**.  
-In particular, you must agree to the **terms and conditions** outlined in the **MIT License disclaimer** section.
-
-As mentioned above, we offer internship credit **worldwide** to student and early-career contributors who make significant contributions, **except** in the following regions: United States, Canada and the European Union. In these regions, internship credit is offered through academic alliances between local universities and INTELLIGENXE Inc.
-
----
+Internship credit is available worldwide to student and early-career contributors who make significant contributions. In the United States, Canada, and the European Union, internship credit is offered primarily through academic partnerships between local universities and INTELLIGENXE Inc.
 
 ## Current Internships
-
-You should perform your internship **voluntarily and at your own risk**.  
-We have designed the internship programs to require **no supervision**, so you should **not expect ongoing support** from maintainers.
-
----
 
 ### 🧠 Internship A100
 
@@ -27,8 +14,6 @@ We have designed the internship programs to require **no supervision**, so you s
 
 **Required contributions (workflow and deliverables):**  
 Follow the same workflow and deliverables described in the **Getting Started: Workflow and Deliverables** section of the `CONTRIBUTING.md` file.
-
----
 
 ### 💡 Internship A101
 

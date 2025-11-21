@@ -1,5 +1,5 @@
 
-# Contributing to The Strategist Platform
+# Contributing to the Strategist Platform
 
 Welcome, and thank you for your interest.
 
