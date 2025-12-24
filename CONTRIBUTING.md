@@ -19,7 +19,7 @@ In our case, we will develop the Agentic RAG for the following use case: **desig
 
  This will primarily involve:
 
-- Using public documents from the client company and its industry for the **RAG knowledge base**.
+- Using public documents from the company of interest and its industry for the **RAG knowledge base**.
 - Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository.
 
 ## Getting Started
@@ -59,10 +59,10 @@ This open-source software (OSS) platform provides contributors with the standard
   Earning recognition from respected platform members can lead to mentorship, speaking opportunities, or even direct job offers, as many companies actively recruit core contributors.  
 
 - **Personal/Private Use**  
-  Contributors may use OSS modules for personal or private use cases (MIT License).  
+  Contributors may use OSS modules for personal or private use cases (Apache License 2.0).  
 
 - **Consulting and Paid Support**  
-  Contributors who become experts in specific OSS modules can offer consulting, training, or premium support services to companies interested in implementing these modules (MIT License).  
+  Contributors who become experts in specific OSS modules can offer consulting, training, or premium support services to companies interested in implementing these modules (Apache License 2.0).  
 
 - **Enjoyment and Altruism**  
   Participate for the satisfaction of contributing to open-source platforms and advancing collective knowledge.  
