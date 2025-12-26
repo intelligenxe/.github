@@ -38,6 +38,8 @@ Make yourself self-sufficient by using the many resources available, including t
 
 - **Library/framework documentation** is very helpful (and it's usually better than third-party documentation, websites, blogs, etc. about the same libraries/frameworks).
 
+- **Our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects)**.
+
 - **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects).
 
 Therefore, expect minimal or no help from owners, admins, and maintainers of Strategist's open source repos. Instead, focus on getting help from the above resources.
