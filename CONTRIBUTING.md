@@ -40,7 +40,7 @@ Make yourself self-sufficient by using the many resources available, including t
 
 - **Our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects)**.
 
-- **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects).
+- **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects). You may suggest improvements to any issue by using its comment function.
 
 Therefore, expect minimal or no help from owners, admins, and maintainers of Strategist's open source repos. Instead, focus on getting help from the above resources.
 
