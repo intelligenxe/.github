@@ -11,7 +11,7 @@ Your current focus as a contributor is to develop a **basic, generic Agentic RAG
 
 “Generic” here means that both the RAG system and the agentic workflow can be easily customized for any desired use case, including your personal projects.
 
-### The Strategist MVP
+### The Strategist-MVP
 
 To develop a **generic Agentic RAG**, it is practical to begin with data from a specific use case. Once developed, the Agentic RAG can then be **generalized or adapted** for other applications.
 
