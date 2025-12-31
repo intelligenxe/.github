@@ -19,8 +19,8 @@ In our case, we will develop the Agentic RAG for the following use case: **desig
 
  This will primarily involve:
 
-- Using public documents from the company of interest and its industry for the **RAG knowledge base**.
-- Designing the **agentic workflow prompts** according to the corporate strategy logic provided in the **Corporate Strategy** repository.
+- Using public documents from the target company and its industry to build the **RAG knowledge base**.
+- Designing **agentic workflow prompts**, aligned with the **corporate strategy** logic outlined in the Corporate Strategy repository, to query the **RAG** effectively.
 
 ## Getting Started
 
