@@ -8,7 +8,7 @@ Internship credit is **available worldwide** to student and early-career contrib
 
 ## Current Internships
 
-### Internship A100 - [Internship Posting/Agreement](https://docs.google.com/document/d/1wEYPvg80jA6FTQgkHEOvicQTDLgfCuR4nIhdzO5WntE/edit?usp=sharing)
+### Internship A100 - [Internship Posting/Agreement](https://docs.google.com/document/d/1YDJmS0-ZOaAKzdUiOF87_rLCgOnNFNh7OvkpoF8CFNI/edit?usp=sharing)
 
 **Internship period:** Up to 6 months  
 
