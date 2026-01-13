@@ -42,7 +42,9 @@ Make yourself self-sufficient by using the many resources available, including t
 
 - **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects). You may suggest improvements to any issue by using its comment function.
 
-Therefore, expect minimal or no help from owners, admins, and maintainers of Strategist's open source repos. Instead, focus on getting help from the above resources.
+Therefore, expect minimal or no help from the owners, admins, and maintainers of Strategist’s open-source repositories. Instead, focus on getting help from the resources listed above.
+
+Finally, for interns who are actively trying to contribute, we aim to hold weekly large-group web meetings to discuss any issues related to the Strategist-MVP project.
 
 ## Advantages of Contributing
 
