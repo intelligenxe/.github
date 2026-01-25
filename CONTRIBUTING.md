@@ -48,8 +48,6 @@ Contributors should primarily rely on the resources listed above and expect mini
 - [Fridays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/bszZswaj22hv3taZ7)
 - [Saturdays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/v4QNAJXdJc1W7K1F7)
 
-- #58
-
 ## Advantages of Contributing
 
 This open-source software (OSS) platform provides contributors with the standard benefits of participating in the OSS ecosystem, including:
