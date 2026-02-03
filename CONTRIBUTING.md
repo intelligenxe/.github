@@ -45,8 +45,8 @@ Make yourself self-sufficient by using the many resources available, including t
 **Office Hours:**
 Contributors should primarily rely on the resources listed above and expect minimal direct assistance from the owners, administrators, and maintainers of Strategist’s open-source repositories. Twice a week, we hold office hours. Contributors—especially interns—are encouraged to join whenever they need support by using the following links:
 
-- [Fridays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/bszZswaj22hv3taZ7)
-- [Saturdays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/v4QNAJXdJc1W7K1F7)
+- [Fridays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/4i5EyWyZ12XfenmTA)
+- [Saturdays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/2m3yEMn6txH3bg9w8)
 
 ## Advantages of Contributing
 
