@@ -43,10 +43,7 @@ Make yourself self-sufficient by using the many resources available, including t
 - **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects). You may suggest improvements to any issue by using its comment function.
 
 **Office Hours:**
-Contributors should primarily rely on the resources listed above and expect minimal direct assistance from the owners, administrators, and maintainers of Strategist’s open-source repositories. Twice a week, we hold office hours. Contributors—especially interns—are encouraged to join whenever they need support by using the following links:
-
-- [Fridays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/4i5EyWyZ12XfenmTA)
-- [Saturdays at 8:30PM IST (India) / 10:30AM EST (US/Canada)](https://calendar.app.google/2m3yEMn6txH3bg9w8)
+Contributors should primarily rely on the resources listed above and therefore require minimal direct assistance from the owners, administrators, and maintainers of Strategist’s open-source repositories. We hold office hours twice a week, and contributors—especially interns—are encouraged to attend whenever they need support. [Click here for this week’s office hours](https://github.com/intelligenxe/.github/issues/60).
 
 ## Advantages of Contributing
 
