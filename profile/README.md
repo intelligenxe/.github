@@ -7,9 +7,9 @@
 **Strategist** is INTELLIGENXE’s open-source software (OSS) platform that leverages artificial intelligence (AI) to generate AI-driven corporate strategies for organizations, business units, and projects. The platform spans multiple repositories within the INTELLIGENXE GitHub organization, including the following:
 
 - [.github](https://github.com/intelligenxe/.github)
-- [RAG basic](https://github.com/intelligenxe/rag-mvp-basic) (current open source development codebase - interns)
-- [RAG base](https://github.com/intelligenxe/rag-mvp-base) (current open source development codebase - interns)
-- [rag-mvp-base_1](https://github.com/intelligenxe/rag-mvp-base_1) (current open source development codebase)
+- [RAG basic](https://github.com/intelligenxe/rag-mvp-basic)
+- [RAG base](https://github.com/intelligenxe/rag-mvp-base)
+- [rag-mvp-base_1](https://github.com/intelligenxe/rag-mvp-base_1)
 - [Strategist-small](https://github.com/intelligenxe/Strategist-small)
 - [Strategist-modular](https://github.com/intelligenxe/Strategist-modular)
 - [AI-driven-strategy](https://github.com/intelligenxe/AI-driven-strategy)
