@@ -47,7 +47,7 @@ Contributors should primarily rely on the resources listed above and therefore r
 
 ## Advantages of Contributing
 
-This open-source software (OSS) platform provides contributors with the standard benefits of participating in the OSS ecosystem, including:
+This open-source software (OSS) platform provides contributors with the typical benefits of participating in the OSS ecosystem, including:
 
 - **Building a Public Portfolio (“The New Résumé”)**  
   All contributions are publicly visible on our GitHub platform, serving as a verifiable, high-quality portfolio for contributors.  
@@ -70,10 +70,11 @@ This open-source software (OSS) platform provides contributors with the standard
 - **Enjoyment and Altruism**  
   Participate for the satisfaction of contributing to open-source platforms and advancing collective knowledge.  
 
-- [**Internship Credit**](https://github.com/intelligenxe/.github/blob/main/internship_credit.md)  
-  Available to certain contributors, depending on eligibility.  
-
 - **And more...**
+
+## Internship Credit for Student and Recent Graduate Contributors
+
+[**Internship Credit**](https://github.com/intelligenxe/.github/blob/main/internship_credit.md) is available to certain contributors, subject to eligibility.  
 
 ## About the Apache 2.0 License
 
