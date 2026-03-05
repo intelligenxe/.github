@@ -74,7 +74,7 @@ This open-source software (OSS) platform provides contributors with the typical 
 
 ## Internship Credit for Student and Recent Graduate Contributors
 
-[**Internship Credit**](https://github.com/intelligenxe/.github/blob/main/internship_credit.md) is available to certain contributors, subject to eligibility.  
+[**Internship Credit**](https://github.com/intelligenxe/.github/blob/main/internship_credit.md) may be granted to contributors based on merit.  
 
 ## About the Apache 2.0 License
 
