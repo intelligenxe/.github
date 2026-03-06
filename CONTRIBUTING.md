@@ -3,7 +3,7 @@
 
 Welcome, and thank you for your interest.
 
-## Contributor’s Current Focus
+## Contributor Current Focus
 
 ### Development of a Basic Generic Agentic RAG
 
@@ -112,7 +112,7 @@ If you do not agree to the CLA, please do not submit Contributions.
 
 ## Contributor Terms
 
-Contributors are also subject to the project’s legal terms stated in the [**Contributor Terms**](https://github.com/intelligenxe/.github/blob/main/LEGAL/CONTRIBUTOR_TERMS.md)  
+Contributors are also subject to the Strategist project’s legal terms, as stated in the [**Contributor Terms**](https://github.com/intelligenxe/.github/blob/main/LEGAL/CONTRIBUTOR_TERMS.md)  
 
 These terms include provisions relating to:
 

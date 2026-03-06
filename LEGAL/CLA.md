@@ -1,21 +1,21 @@
 # Contributor License Agreement (CLA)
 
-Thank you for contributing to the INTELLIGENXE open source project.
+Thank you for contributing to the INTELLIGENXE open source Strategist project.
 
 By submitting code, documentation, or other materials ("Contributions") to this repository, you agree to the following terms.
 
 ## 1. Grant of License
 
-You grant INTELLIGENXE and all recipients of the project a perpetual, worldwide, non-exclusive, royalty-free license to use, reproduce, modify, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute your Contributions as part of the project.
+You grant INTELLIGENXE and all recipients of the Strategist project a perpetual, worldwide, non-exclusive, royalty-free license to use, reproduce, modify, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute your Contributions as part of the Strategist project.
 
-Your Contributions will be licensed under the same license as the project, currently the **Apache License, Version 2.0**, unless explicitly stated otherwise.
+Your Contributions will be licensed under the same license as the Strategist project, currently the **Apache License, Version 2.0**, unless explicitly stated otherwise.
 
 ## 2. Contributor Representations
 
 You represent that:
 
 - You have the legal right to submit the Contribution.
-- The Contribution is your original work, or you have the right to submit it under the project license.
+- The Contribution is your original work, or you have the right to submit it under the Strategist project license.
 - The Contribution does not knowingly infringe the intellectual property rights of any third party.
 
 ## 3. No Compensation
