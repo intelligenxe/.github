@@ -1,6 +1,6 @@
 # Contributor Terms and Conditions
 
-These Terms apply to all contributors participating in the INTELLIGENXE open source Strategist project.
+These Terms apply to all contributors participating in the INTELLIGENXE Strategist open source project.
 
 ## Indemnification
 
@@ -12,7 +12,7 @@ You agree to indemnify, defend, and hold harmless INTELLIGENXE and its officers,
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, INTELLIGENXE shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to loss of profits, data, use, goodwill, or other intangible losses.
+To the maximum extent permitted by law, INTELLIGENXE shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to loss of time, profits, data, use, goodwill, or other intangible losses.
 
 This limitation applies regardless of the legal theory of liability, whether based on contract, tort (including negligence), strict liability, or otherwise, even if INTELLIGENXE has been advised of the possibility of such damages.
 

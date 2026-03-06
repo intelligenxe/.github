@@ -108,6 +108,8 @@ By submitting any Contribution to this repository (including pull requests, comm
 - You grant the licenses described in the CLA for your Contribution.
 - You have the legal right to submit the Contribution.
 
+INTELLIGENXE reserves the right to accept, reject, modify, or remove any Contributions at its sole discretion. INTELLIGENXE makes no guarantees regarding repository maintenance, feedback on submissions, or implementation of contributions, which may be declined due to lack of value, clarity, or feasibility.
+
 If you do not agree to the CLA, please do not submit Contributions.
 
 ## Contributor Terms
@@ -119,8 +121,6 @@ These terms include provisions relating to:
 - limitation of liability
 - warranty disclaimers
 - indemnification
-
-In particular, INTELLIGENXE provides **no guarantee of timely or proper maintenance** of the platform's repositories. Furthermore, it **does not ensure that contributors will receive timely or appropriate feedback on their submissions**, nor that their contributions will be implemented. This may be due to various factors, including a lack of value, clarity, or feasibility in the submission. INTELLIGENXE reserves the right to accept, reject, modify, or remove any Contributions at its sole discretion.
 
 ---
 

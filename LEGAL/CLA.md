@@ -1,6 +1,6 @@
 # Contributor License Agreement (CLA)
 
-Thank you for contributing to the INTELLIGENXE open source Strategist project.
+Thank you for contributing to the INTELLIGENXE Strategist open source project.
 
 By submitting code, documentation, or other materials ("Contributions") to this repository, you agree to the following terms.
 
@@ -24,7 +24,7 @@ Contributions are voluntary. You understand and agree that you will not receive 
 
 ## 4. Right to Accept or Reject Contributions
 
-INTELLIGENXE reserves the right to accept, reject, modify, or remove any Contributions at its sole discretion.
+INTELLIGENXE reserves the right to accept, reject, modify, or remove any Contributions at its sole discretion. INTELLIGENXE makes no guarantees regarding repository maintenance, feedback on submissions, or implementation of contributions, which may be declined due to lack of value, clarity, or feasibility.
 
 ## 5. Agreement
 
