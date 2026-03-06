@@ -98,9 +98,36 @@ To maintain transparency and fairness, please observe the following:
 
 By submitting contributions, you agree that your work will be shared under the same **Apache 2.0 License**, ensuring long-term openness and consistency.
 
-## No Guarantee of Review or Maintenance
+## Contributor Agreement
 
-INTELLIGENXE gives **no guarantee of timely or proper maintenance** whatsoever for the platform's repositories. Furthermore, there is **no guarantee that contributors will receive timely or proper feedback** on their submissions, or that their contributions will be implemented in the platform. This may be due to various reasons, including a lack of value, clarity, or feasibility in the submission, and/or INTELLIGENXE's limited resources.
+Before submitting a contribution, you must agree to the **Contributor License Agreement (CLA)**.
+
+📄 **CLA:**  
+See the full agreement here:  
+[CLA.md](./CLA.md)
+
+By submitting any Contribution to this repository (including pull requests, commits, issues containing code, documentation updates, or other materials), you acknowledge that:
+
+- You have read and agree to the terms of the **Contributor License Agreement (CLA)**.
+- You grant the licenses described in the CLA for your Contribution.
+- You have the legal right to submit the Contribution.
+
+If you do not agree to the CLA, please do not submit Contributions.
+
+## Contributor Terms
+
+Contributors are also subject to the project’s legal terms.
+
+📄 **Contributor Terms:**  
+[CONTRIBUTOR_TERMS.md](./CONTRIBUTOR_TERMS.md)
+
+These terms include provisions relating to:
+
+- limitation of liability
+- warranty disclaimers
+- indemnification
+
+In particular, INTELLIGENXE provides **no guarantee of timely or proper maintenance** of the platform's repositories. Furthermore, it **does not ensure that contributors will receive timely or appropriate feedback on their submissions**, nor that their contributions will be implemented. This may be due to various factors, including a lack of value, clarity, or feasibility in the submission, and/or INTELLIGENXE's limited resources.
 
 ---
 
