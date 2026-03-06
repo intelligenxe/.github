@@ -100,11 +100,7 @@ By submitting contributions, you agree that your work will be shared under the s
 
 ## Contributor Agreement
 
-Before submitting a contribution, you must agree to the **Contributor License Agreement (CLA)**.
-
-📄 **CLA:**  
-See the full agreement here:  
-[CLA.md](./CLA.md)
+Before submitting a contribution, you must agree to the [**Contributor License Agreement (CLA)**](https://github.com/intelligenxe/.github/blob/main/LEGAL/CLA.md).
 
 By submitting any Contribution to this repository (including pull requests, commits, issues containing code, documentation updates, or other materials), you acknowledge that:
 
@@ -116,10 +112,7 @@ If you do not agree to the CLA, please do not submit Contributions.
 
 ## Contributor Terms
 
-Contributors are also subject to the project’s legal terms.
-
-📄 **Contributor Terms:**  
-[CONTRIBUTOR_TERMS.md](./CONTRIBUTOR_TERMS.md)
+Contributors are also subject to the project’s legal terms stated in the [**Contributor Terms**](https://github.com/intelligenxe/.github/blob/main/LEGAL/CONTRIBUTOR_TERMS.md)  
 
 These terms include provisions relating to:
 
