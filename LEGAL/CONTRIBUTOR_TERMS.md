@@ -6,7 +6,7 @@ These Terms apply to all contributors participating in the INTELLIGENXE open sou
 
 You agree to indemnify, defend, and hold harmless INTELLIGENXE and its officers, directors, employees, and agents from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising from or relating to:
 
-- Your use of the Strategist project or related services
+- Your use of the Strategist project or related work
 - Your breach of these Terms
 - Your violation of applicable law
 
@@ -18,7 +18,7 @@ This limitation applies regardless of the legal theory of liability, whether bas
 
 ## Disclaimer of Warranties
 
-The Strategist project and related services are provided **"as is"** and **"as available"**, without warranties of any kind, whether express or implied.
+The Strategist project and related work are provided **"as is"** and **"as available"**, without warranties of any kind, whether express or implied.
 
 INTELLIGENXE disclaims all implied warranties, including:
 
