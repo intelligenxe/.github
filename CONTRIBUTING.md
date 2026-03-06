@@ -120,7 +120,7 @@ These terms include provisions relating to:
 - warranty disclaimers
 - indemnification
 
-In particular, INTELLIGENXE provides **no guarantee of timely or proper maintenance** of the platform's repositories. Furthermore, it **does not ensure that contributors will receive timely or appropriate feedback on their submissions**, nor that their contributions will be implemented. This may be due to various factors, including a lack of value, clarity, or feasibility in the submission, and/or INTELLIGENXE's limited resources.
+In particular, INTELLIGENXE provides **no guarantee of timely or proper maintenance** of the platform's repositories. Furthermore, it **does not ensure that contributors will receive timely or appropriate feedback on their submissions**, nor that their contributions will be implemented. This may be due to various factors, including a lack of value, clarity, or feasibility in the submission. INTELLIGENXE reserves the right to accept, reject, modify, or remove any Contributions at its sole discretion.
 
 ---
 
