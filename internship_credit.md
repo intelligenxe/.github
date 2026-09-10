@@ -1,6 +1,6 @@
 ## Internship Credit for Student and Recent Graduate Contributors
 
-**INTELLIGENXE offers internship credit opportunities** to contributors participating in the **Strategist** open-source platform. Specifically, it allows students and recent graduates ("contributors") to gain hands-on experience in Generative AI (GenAI) development.
+**INTELLIGENXE offers internship credit opportunities** to contributors participating in the **Strategist-OSS** open-source platform. Specifically, it allows students and recent graduates ("contributors") to gain hands-on experience in Generative AI (GenAI) development.
 
 **Internship credit from INTELLIGENXE Inc.** is an official recognition of meaningful technical contributions and **is granted to interns who complete predetermined sets of contributions**. This credit may be formally represented by adding your internship experience to your résumé and LinkedIn profile. It increases the value of your career and résumé, even though it does not involve any monetary compensation.
 
