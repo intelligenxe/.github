@@ -2,9 +2,9 @@
 
 # INTELLIGENXE
 
-## The Platform: Strategist
+## The Platform: Strategist-OSS
 
-**Strategist** is INTELLIGENXE’s open-source software (OSS) platform that leverages artificial intelligence (AI) to generate AI-driven corporate strategies for organizations, business units, and projects. The platform spans multiple repositories within the INTELLIGENXE GitHub organization, including the following:
+**Strategist-OSS** is INTELLIGENXE’s open-source software (OSS) platform that leverages artificial intelligence (AI) to generate AI-driven corporate strategies for organizations, business units, and projects. The platform spans multiple repositories within the INTELLIGENXE GitHub organization, including the following:
 
 - [.github](https://github.com/intelligenxe/.github)
 - [RAG basic](https://github.com/intelligenxe/rag-mvp-basic)
