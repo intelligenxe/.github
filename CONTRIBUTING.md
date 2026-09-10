@@ -1,5 +1,5 @@
 
-# Contributing to the Strategist Platform/Project
+# Contributing to the Strategist-OSS Platform/Project
 
 Welcome, and thank you for your interest.
 
@@ -43,7 +43,7 @@ Make yourself self-sufficient by using the many resources available, including t
 - **The community**, including your peer contributors' issues and comments in our [tutorials](https://github.com/intelligenxe/.github/tree/main/tutorials) and [projects](https://github.com/orgs/intelligenxe/projects). You may suggest improvements to any issue by using its comment function.
 
 **Office Hours:**
-Contributors should primarily rely on the resources listed above and therefore require minimal direct assistance from the owners, administrators, and maintainers of Strategist’s open-source repositories. We hold office hours twice a week, and contributors—especially interns—are encouraged to attend whenever they need support. [Click here for this week’s office hours](https://github.com/intelligenxe/.github/issues/60).
+Contributors should primarily rely on the resources listed above and therefore require minimal direct assistance from the owners, administrators, and maintainers of Strategist-OSS’s open-source repositories. We hold office hours twice a week, and contributors—especially interns—are encouraged to attend whenever they need support. [Click here for this week’s office hours](https://github.com/intelligenxe/.github/issues/60).
 
 ## Advantages of Contributing
 
@@ -114,7 +114,7 @@ If you do not agree to the CLA, please do not submit Contributions.
 
 ## Contributor Terms
 
-Contributors are also subject to the Strategist project’s legal terms, as stated in the [**Contributor Terms**](https://github.com/intelligenxe/.github/blob/main/LEGAL/CONTRIBUTOR_TERMS.md)  
+Contributors are also subject to the Strategist-OSS project’s legal terms, as stated in the [**Contributor Terms**](https://github.com/intelligenxe/.github/blob/main/LEGAL/CONTRIBUTOR_TERMS.md)  
 
 These terms include provisions relating to:
 
