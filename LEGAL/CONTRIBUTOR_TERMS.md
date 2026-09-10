@@ -1,12 +1,12 @@
 # Contributor Terms and Conditions
 
-These Terms apply to all contributors participating in the INTELLIGENXE Strategist open source project.
+These Terms apply to all contributors participating in the INTELLIGENXE Strategist-OSS open source project.
 
 ## Indemnification
 
 You agree to indemnify, defend, and hold harmless INTELLIGENXE and its officers, directors, employees, and agents from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising from or relating to:
 
-- Your use of the Strategist project or related work
+- Your use of the Strategist-OSS project or related work
 - Your breach of these Terms
 - Your violation of applicable law
 
@@ -18,7 +18,7 @@ This limitation applies regardless of the legal theory of liability, whether bas
 
 ## Disclaimer of Warranties
 
-The Strategist project and related work are provided **"as is"** and **"as available"**, without warranties of any kind, whether express or implied.
+The Strategist-OSS project and related work are provided **"as is"** and **"as available"**, without warranties of any kind, whether express or implied.
 
 INTELLIGENXE disclaims all implied warranties, including:
 
@@ -29,9 +29,9 @@ INTELLIGENXE disclaims all implied warranties, including:
 
 INTELLIGENXE does not warrant that:
 
-- The Strategist project will meet contributor requirements
-- The Strategist project will be uninterrupted, secure, or error-free
-- Results obtained from using the Strategist project will be accurate or reliable
+- The Strategist-OSS project will meet contributor requirements
+- The Strategist-OSS project will be uninterrupted, secure, or error-free
+- Results obtained from using the Strategist-OSS project will be accurate or reliable
 
 ## Governing Law
 
