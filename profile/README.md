@@ -1,8 +1,10 @@
 ![intelligenxeTM](https://github.com/user-attachments/assets/10e44015-e012-4a32-aa09-5468496d4b5c)
 
+> **Discontinued.** Strategist-OSS was discontinued shortly after its inception and is kept for demonstration only. Its repositories are archived (read-only), and contributions are not accepted.
+
 # INTELLIGENXE
 
-## The Platform: Strategist-OSS
+## Strategist-OSS
 
 **Strategist-OSS** is INTELLIGENXE’s open-source software (OSS) platform that leverages artificial intelligence (AI) to generate AI-driven corporate strategies for organizations, business units, and projects. The platform spans multiple repositories within the INTELLIGENXE GitHub organization, including the following:
 
